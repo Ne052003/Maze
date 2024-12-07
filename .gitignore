@@ -1,0 +1,19 @@
+# Android Studio files
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Compilation files
+build/
+*.apk
+*.aar
+
+# Cache Files from OS
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.log
+*.bak
+*.swp
